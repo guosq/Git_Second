@@ -12,3 +12,4 @@ Fix issue-101
 This is dev branch
 Double dev change
 
+修复了一个bug在bug-fix分支中
